@@ -1,1 +1,1 @@
-# .github
+# Welcome to Score-Inc Github
