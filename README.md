@@ -2,4 +2,4 @@
 
 - ## [YuukiPS](/YuukiPS/README.MD)
 
-- ## [TheScorePS](/README.md) Soon™️
+- ## [ScorePS](/README.md) Soon™️
