@@ -1,6 +1,6 @@
 # Welcome to YuukiPS
 
-YuukiPS is a free Anime Game Private Server to play
+YuukiPS is a private server service where you can play other than the official server and is free to do anything.
 
 ## Getting Started
 
@@ -8,8 +8,7 @@ If you come here because you want to play a private server please see list below
 
 IP Server : <!--🛠server-->
 
-- 38.242.197.120 (EU)
-- 154.26.129.2 (SG)
+`genshin.ps.yuuki.me`
 <!-- TODO - Edit later
 Private Server:
 
