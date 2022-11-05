@@ -2,7 +2,7 @@
 
 ## Table of Contents
 
-- [Android](/YuukiPS/docs/FAQ/Android/README.MD) - TODO
+- [Android](/YuukiPS/docs/FAQ/Android/README.MD)
 - [iOS](/YuukiPS/docs/FAQ/iOS/README.MD) - TODO
 - [PC](/YuukiPS/docs/FAQ/PC/README.MD)
 
