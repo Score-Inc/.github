@@ -1,37 +1,8 @@
-# Frequently Asked Questions (Android)
+# Welcome to Frequently Asked Questions (Android)
 
-- ## 0% Preparing Load Data
+List of FAQ:
 
-![stuck-data][stuck-data]
-
-1. > Check the folder `com.miHoYo.ys.x` in `Android/data/` (Use ZArchiver or MT Manager)
-![check-size][check-size]
-
-2. > If the size is lower than 18GB, you need to download some data in Official Server
-
-3. > Rename back com.miHoYo.ys.x to com.miHoYo.GenshinImpact and open original apk from Play Store\
-from : \
-![before-pkg][before-pkg]
-to : \
-![after-pkg][after-pkg]
-
-4. > Login and download all Data there until u see the door\
-![loading-door][loading-door]
-
-5. > If done then rename back com.miHoYo.GenshinImpact to com.miHoYo.ys.x
-from : \
-![after-pkg][after-pkg]\
-To : \
-![before-pkg][before-pkg]
-
-6. > Click on Yuuki Server
-7. > Enter username and password but easy to remember\
-![Login_Page](/YuukiPS/src/img/Android/Login_Page.png)
-
-[stuck-data]: /YuukiPS/src/img/Android/stuck-data.png
-[check-size]: /YuukiPS/src/img/Android/Size_Check_Package.png
-[before-pkg]: /YuukiPS/src/img/Android/Rename_Package_From.png
-[after-pkg]: /YuukiPS/src/img/Android/Rename_Package_To.png
-[loading-door]: /YuukiPS/src/img/Android/Genshin_Impact_Door_After_Loading.png
+1. > [Clone APK/Package](Clone%20Version/README.MD)
+2. > [Original APK/Package](Original%20Version/README.MD)
 
 [Back to FAQ](/YuukiPS/docs/FAQ/README.MD)
