@@ -26,10 +26,11 @@ To : \
 
 6. > Click on Yuuki Server
 7. > Enter username and password but easy to remember\
-![Login_Page](/YuukiPS/src/img/Android/Login_Page.png)
+![Login_Page](/YuukiPS/src/img/Android/Clone%20Version/Login_Page.png)\
+8. Enjoy
 
-[stuck-data]: /YuukiPS/src/img/Android/stuck-data.png
-[check-size]: /YuukiPS/src/img/Android/Size_Check_Package.png
+[stuck-data]: /YuukiPS/src/img/Android/Clone%20Version/stuck-data.png
+[check-size]: /YuukiPS/src/img/Android/Clone%20Version/Size_Check_Package.png
 [before-pkg]: /YuukiPS/src/img/Android/Rename_Package_From.png
 [after-pkg]: /YuukiPS/src/img/Android/Rename_Package_To.png
 [loading-door]: /YuukiPS/src/img/Android/Genshin_Impact_Door_After_Loading.png
