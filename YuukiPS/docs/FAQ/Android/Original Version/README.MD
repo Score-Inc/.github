@@ -1,4 +1,4 @@
-# Frequently Asked Questions (Android)
+# Original APK
 
 - ## 0% Preparing Load Data
 
@@ -20,4 +20,4 @@
 [After Download]: /YuukiPS/src/img/Android/Clone%20Version/Genshin_Impact_Door_After_Loading.png
 [Go To Custom Server]: /YuukiPS/src/img/Android/Original%20Package%20Version/Go_To_Custom_Server.png
 
-[Back to FAQ](/YuukiPS/docs/FAQ/Android/README.MD)
+[Back to Android](/YuukiPS/docs/FAQ/Android/README.MD)

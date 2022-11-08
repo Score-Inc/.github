@@ -1,4 +1,4 @@
-# Frequently Asked Questions (Android)
+# Clone APK
 
 - ## 0% Preparing Load Data
 
@@ -35,4 +35,4 @@ To : \
 [after-pkg]: /YuukiPS/src/img/Android/Clone%20Version/Rename_Package_To.png
 [loading-door]: /YuukiPS/src/img/Android/Clone%20Version/Genshin_Impact_Door_After_Loading.png
 
-[Back to FAQ](/YuukiPS/docs/FAQ/Android/README.MD)
+[Back to Android](/YuukiPS/docs/FAQ/Android/README.MD)
