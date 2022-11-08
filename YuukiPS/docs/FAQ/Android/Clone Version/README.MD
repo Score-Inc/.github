@@ -11,7 +11,7 @@
 
 3. > Rename back com.miHoYo.ys.x to com.miHoYo.GenshinImpact and open original apk from Play Store\
 from : \
-![before-pkg][before-pkg]
+![before-pkg][before-pkg]\
 to : \
 ![after-pkg][after-pkg]
 
@@ -31,8 +31,8 @@ To : \
 
 [stuck-data]: /YuukiPS/src/img/Android/Clone%20Version/stuck-data.png
 [check-size]: /YuukiPS/src/img/Android/Clone%20Version/Size_Check_Package.png
-[before-pkg]: /YuukiPS/src/img/Android/Rename_Package_From.png
-[after-pkg]: /YuukiPS/src/img/Android/Rename_Package_To.png
-[loading-door]: /YuukiPS/src/img/Android/Genshin_Impact_Door_After_Loading.png
+[before-pkg]: /YuukiPS/src/img/Android/Clone%20Version/Rename_Package_From.png
+[after-pkg]: /YuukiPS/src/img/Android/Clone%20Version/Rename_Package_To.png
+[loading-door]: /YuukiPS/src/img/Android/Clone%20Version/Genshin_Impact_Door_After_Loading.png
 
 [Back to FAQ](/YuukiPS/docs/FAQ/Android/README.MD)
