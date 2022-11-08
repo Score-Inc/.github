@@ -26,7 +26,7 @@ To : \
 
 6. > Click on Yuuki Server
 7. > Enter username and password but easy to remember\
-![Login_Page](/YuukiPS/src/img/Android/Clone%20Version/Login_Page.png)\
+![Login_Page](/YuukiPS/src/img/Android/Clone%20Version/Login_Page.png)
 8. Enjoy
 
 [stuck-data]: /YuukiPS/src/img/Android/Clone%20Version/stuck-data.png
