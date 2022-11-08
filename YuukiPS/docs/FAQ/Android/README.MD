@@ -25,6 +25,8 @@ To : \
 ![before-pkg][before-pkg]
 
 6. > Click on Yuuki Server
+7. > Enter username and password but easy to remember\
+![Login_Page](/YuukiPS/src/img/Android/Login_Page.png)
 
 [stuck-data]: /YuukiPS/src/img/Android/stuck-data.png
 [check-size]: /YuukiPS/src/img/Android/Size_Check_Package.png
