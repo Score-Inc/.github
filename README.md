@@ -2,4 +2,4 @@
 
 - ## [YuukiPS](/YuukiPS/README.MD)
 
-- ## [ScorePS](/ScorePS/README.MD) Soon™️
+- ## [ScorePS](/ScorePS/README.MD) Available Now !<!--"-->

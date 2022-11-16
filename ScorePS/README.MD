@@ -1,14 +1,18 @@
-# Welcome to TheScorePS
+# Welcome to ScorePS
 
-YuukiPS is a private server service where you can play other than the official server and is free to do anything.
+ScorePS is a Private Server that is managed by skill issues
 
 ## Getting Started
 
 If you come here because you want to play a private server please see list below.
 
-IP Server :
+- Server Address
+\
+`genshin.scoreps.xyz`
 
-`34.101.139.102` (Jakarta, Indonesia)
+- Website :
+\
+[`scoreps.xyz`](https://scoreps.xyz)
 
 ## FAQ
 
