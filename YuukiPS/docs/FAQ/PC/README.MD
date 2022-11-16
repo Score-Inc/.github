@@ -4,15 +4,17 @@ Read this section to see a list of Frequently Asked Questions on (PC)
 
 ## Quick Access
 
-[Yuuki Launcher](#yuuki-launcher)
+- [Yuuki Launcher](#yuuki-launcher)
+\
+[Cannot Run Launcher](#cannot-run-launcher)
+\
+[Error Patch](#error-patch--patch-userassembly-failed)
 
-- [Cannot Run Launcher](#cannot-run-launcher)
-- [Error Patch](#error-patch--patch-userassembly-failed)
-
-[Game](#game)
-
-- [Error 4214](#error-4214)
-- [Failed to load il2cpp](#fatal-error--failed-to-load-il2cpp)
+- [Game](#game)
+\
+[Error 4214](#error-4214)
+\
+[Failed to load il2cpp](#fatal-error--failed-to-load-il2cpp)
 
 ## Yuuki Launcher
 
