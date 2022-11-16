@@ -4,10 +4,10 @@ YuukiPS is a private server service where you can play other than the official s
 
 ## Getting Started
 
-If you come here because you want to play a private server please see list below.
+If you come here because you want to play a private server please the see list below.
 
-IP Server : <!--🛠server-->
-
+- Server Address : <!--🛠server-->
+\
 `genshin.ps.yuuki.me`
 <!-- TODO - Edit later
 Private Server:
@@ -19,24 +19,27 @@ Private Server:
 
 DNS Server: 🌐server-info-dns ✍feedback-dns
 -->
-File Manager
+- File Manager
+\
+<https://file.yuuki.me/> (Server CloudFlare)
+\
+<https://file2.yuuki.me/> (Server Yuuki)
+\
+<https://drive.yuuki.me/> (Server Yuuki)
 
-- <https://file.yuuki.me/> (Server CloudFlare)
-- <https://file2.yuuki.me/> (Server Yuuki)
-- <https://drive.yuuki.me/> (Server Yuuki)
+- Blog:
+\
+<https://www.yuuki.me/>
 
-Blog:
+- Web Portal Private Server
+\
+<https://ps.yuuki.me/>
 
-- <https://www.yuuki.me/>
-
-Web Portal Private Server
-
-- <https://ps.yuuki.me/>
-
-Channel YouTube
-
-- Official <https://www.youtube.com/c/MeYuuki>
-- Others for backup <https://www.youtube.com/channel/UCXWApi1ubUJnJh5f_dpgcGA>
+- YouTube Channel
+\
+Official <https://www.youtube.com/c/MeYuuki>
+\
+Others for backup <https://www.youtube.com/channel/UCXWApi1ubUJnJh5f_dpgcGA>
 
 ## FAQ
 
