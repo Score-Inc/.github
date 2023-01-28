@@ -2,4 +2,4 @@
 
 - ## [YuukiPS](/YuukiPS/README.MD)
 
-- ## [ScorePS](/ScorePS/README.MD) Available Now !<!--"-->
+- ## [ScorePS](https://github.com/Score-Inc/.github/#README.MD) (Service has Ended)
